@@ -6,3 +6,30 @@ html {
 body {
 	background-color: #f9fafc;
 }
+
+p.company, h1 {
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+	color: #69696a;
+}
+
+.description {
+    border-left: solid 2px #69696a;
+	padding-left: 15px;
+}
+
+p.description {
+	color: #69696a;
+}
+
+input#hire_us, input#scroll_down {
+    background-color: #000;
+	color: #fff;
+	width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
