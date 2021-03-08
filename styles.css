@@ -1,5 +1,6 @@
 html {
-	font-family: "Open Sans", "Helvetica", sans-serif;
+	font-family: "Open Sans", "Helvetica", sans-serif; 
+	//you shouldnt need the Helvetica listed here, I think its still showing Open sans but not sure how they might conlict if you have 2 different fonts listed
 	font-size: 16px;
 }
 
