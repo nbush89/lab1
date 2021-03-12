@@ -18,7 +18,7 @@ li {
 }
 
 a {
-    text-decoration: none;
+    	text-decoration: none;
 	color: #69696a;
 }
 
@@ -27,7 +27,7 @@ a {
 }
 
 .description {
-    border-left: solid 3px #69696a;
+    	border-left: solid 3px #69696a;
 	padding-left: 10px;
 }
 
@@ -40,9 +40,9 @@ input#hire_us, input#scroll_down {
 	color: #fff;
 	text-align: center;
 	width: 100%;
-    padding: 10px;
-    border: none;
-    border-radius: 20px;
+    	padding: 10px;
+    	border: none;
+    	border-radius: 20px;
 }
 
 
@@ -78,20 +78,20 @@ input#scroll_down {
 }
 
 #pink_circle {
-    background: rgba(247, 136, 167, 0.6);
-    border-radius: 50%;
-    width: 225px;
-    height: 225px;
+    	background: rgba(247, 136, 167, 0.6);
+    	border-radius: 50%;
+    	width: 225px;
+   	height: 225px;
 	position: absolute;
 	top: 15%;
 	right: 10%;
 }
 
 #orange_circle {
-    background: rgba(247, 193, 162, 0.7);
-    border-radius: 50%;
-    width: 175px;
-    height: 175px;
+    	background: rgba(247, 193, 162, 0.7);
+    	border-radius: 50%;
+    	width: 175px;
+    	height: 175px;
 	position: absolute;
 	top: 33%;
 	right: 5%;
@@ -99,10 +99,10 @@ input#scroll_down {
 }
 
 #purple_circle {
-    background: rgba(207, 130, 213, 0.6);
-    border-radius: 50%;
-    width: 125px;
-    height: 125px;
+    	background: rgba(207, 130, 213, 0.6);
+    	border-radius: 50%;
+    	width: 125px;
+    	height: 125px;
 	position: absolute;
 	top: 25%;
 	right: 3%;
