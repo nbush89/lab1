@@ -23,7 +23,7 @@ a {
 }
 
  h1 {
-    color: #000;
+    	color: #000;
 }
 
 .description {
@@ -36,7 +36,7 @@ a {
 }
 
 input#hire_us, input#scroll_down {
-    background-color: #000;
+    	background-color: #000;
 	color: #fff;
 	text-align: center;
 	width: 100%;
