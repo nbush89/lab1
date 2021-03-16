@@ -52,7 +52,15 @@ header {
 	flex-direction: row;
 	justify-content: space-between;
 }
-
+.overview{
+	flex: 1; //this property is a raito and will make the container grow to fit its parent, so 100% in this case but if another one in this parent has 1 they will be equally sharing th container
+	}
+.right-side{
+	flex: 1;
+	}
+.content{
+	display: flex;
+	}
 ul {
 	display: flex;
 }
